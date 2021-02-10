@@ -1,2 +1,2 @@
-# SteamScraperDiscordBot
-a bot that wil scrap steam for hours of people who you add , it can also do random people's like stupid fast
+# Hours--in-Steam
+a discord bot that can scrape the web for time played in the last 2 hours and diplays it
